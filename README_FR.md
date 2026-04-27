@@ -1,4 +1,4 @@
-# H.Y.D.R.A.
+# Project: H.Y.D.R.A.
 
 ### High-Yield Distributed Rack Assembly
 *(Infrastructure de Refroidissement Centralisée pour Rack 19")*
